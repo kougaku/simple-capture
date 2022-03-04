@@ -1,2 +1,2 @@
-# simple-capture
+# simple capture
 OpenCV based simple capture
